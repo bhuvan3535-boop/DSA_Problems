@@ -16,5 +16,5 @@ The code is organized by core data structures and algorithmic patterns to make n
 │   └── Valid_Palindrome.java
 ├── 📂 cpp/
 │   └── Best_Time_to_Buy_and_Sell_Stock.cpp
-├── 📂 mysql/
-│    └── Invert_Binary_Tree.py
+├── 📂 sql/
+│    └── invalid-tweets.mysql
