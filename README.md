@@ -17,4 +17,4 @@ The code is organized by core data structures and algorithmic patterns to make n
 ├── 📂 cpp/
 │   └── Best_Time_to_Buy_and_Sell_Stock.cpp
 ├── 📂 sql/
-│    └── invalid-tweets.mysql
+│    └── invalid-tweets.sql
